@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABCAAGBQJWcSpxAAoJEJPB2e07PgbqBIkQAJgXVFgP1Hqz+AwCc8elRhN2
-SS2yzGn8RuTiHrDsL2/IYq5A0p4mOgb2IJsJxnAt29SQKumLIfLLspEjFuaGC+Jq
-wpvGQtSwvIouNMPOdWlYc7XXXRMew8zwyMDaTrDzVp5u3UXkm+5YhEDNQBX4mgB0
-rsOkrkHMmim3vT/NyDne9McFfAeb+CytYgitWBluKVmNP+lR5U81WnI/weZu+gnI
-to4f9E4a8+3ezGR7G//WNdLRLi9ZA+6W3xRMnYhCf7/ySx0y2MLM4l9NO/gT2RZ2
-PjnhAes9Hkbe9UHu7gdz1X5CIIWYG6bd2meXc1pyTDMP7NFKu564arIraJV04syg
-P60xO4GDgs37d8cG29wVa+vTK9SvsPEC9Es9SQ/Ay8Qa7/UCD9NKMujWkRDSxq8n
-OEXqwo2aZxl9KvW6TK6CojwEetURos4oZ3KhEca8kw1gXyzv9TQBu6EtB7c+VMks
-Qh2+DWn8fsRLVBYvtEBOHpM/x6Q4FH8RPjCFIZ/chi3jti5oZHk1VPDcEsx+mpsV
-Xzt2Qw9xxOzdcnag/sLj9fNJP0iT+BLj2TOpZ0EPMoimjTaEFouFeDJw/Xc7kP1t
-w0AFWv5gIPIjktzmtPcfI6gSRET71O5p70k2bjAUa1iOOQfFIu0Imdj8pTZ3f0CE
-dyXDyN1g2MdbcApSMCcD
-=0AB3
+iQIcBAABCAAGBQJWcZFhAAoJEJPB2e07PgbqwYIP/RWVC7z0YVqng3AAxDSAOMiT
+rF/h11os8AcMBqg3Yk2dMc5i287by6sf/jWdDvZNJCFBxlYl68Z2ay8+I3OVCzxM
+eTKUMcsCoBg5LYpojhYC+IxM+38guH6mo7aJbXpGlca9cReZ/FiYoMTNTNvNNMPC
+a/sgy1wPnek9MKs5/1w7vehiDHwFaFK6BH38mH/TBchg/oPQFCdLWT/0/pcbgDen
+NEw0zwyWhPXI3imSrr/nUkxKR+AMd9WLnXz/RHf62pfzUYD53Wlm732qErISJK9N
+H1xYYVXMkwLcIW1Owus4zyXgBiB3ltSoxtA/If30e6L8R3Uq59eaPtoyMk/5zIdI
+1Lv/+zYEJ3SobXEAeADbCTOXQGy0qy7byRaLQdgcvcFo+24kJJF4UCMOjlBhjEO+
+7zhLnRQgjWOcQDWLm6YdaSZDP3hn1JVDN3mY76gMVBE2WXnIQ/J0Qipq8DRrb18y
+ZCnodUfeQbEylP1mLrulGOLu2hDn2d1FcaHMHF1CfJVQILmkLmLx2q+ZauiQePp3
+ELF0QCwqsbCLgk7BTpwgnOgz0wUVQ/Yz3GXrmnLBAruXCOJmEgqg8UOoBherBhVW
+e+tvN53HHuefmqofOsTpWJOFxl3MKaUO0dcLtKypcYuiGQL4qY7VUsKTrTxpe45u
+YABZaJJLrdbsk6tVZF6p
+=owuV
 -----END PGP SIGNATURE-----
 
 ```
@@ -78,7 +78,7 @@ size    exec  file                        contents
 656             advent14.txt              686da937ed08c3039b8782c7fd3e4b2cf45fcf1cfeada8bca4007e5020d3bd55
 10488           advent15.ipynb            a5f0886978fe096f62715ee54ebdcd20fa82b4a34afc4edacaac48a2006da765
 274             advent15.txt              7a8a96fd6321651f56df6018bf9c9ba3670af027504e294906d68b34ccff3910
-4269            advent16.ipynb            be305b2de5f560fb4f99686e8739e1f3eb92f76a02bcb73cf7938295430b9c8e
+4262            advent16.ipynb            d3cd7fd1f418a757a278ad0702d95af8e61a1cb3778b865c8e4cd98ab834097b
 21628           advent16.txt              90d5da4140bf7c7e98c16d78b3249b0e69da7efe9fb5c69a4a0757f1e3552f94
 ```
 
