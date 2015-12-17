@@ -1,27 +1,13 @@
 <!DOCTYPE html>
-<!-- saved from url=(0030)http://adventofcode.com/day/15 -->
-<html lang="en-us"><script async="" src="http://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window["_gaUserPrefs"] = { ioo : function() { return true; } }</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
+<html lang="en-us">
+<head>
+<meta charset="utf-8"/>
 <title>Day 15 - Advent of Code</title>
 <!--[if lt IE 9]><script src="/static/html5.js"></script><![endif]-->
-<link href="./advent-of-code-15_files/css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="./advent-of-code-15_files/style.css">
-<link rel="shortcut icon" href="http://adventofcode.com/favicon.ico?2">
-<style type="text/css">:root .adsbygoogle
-{display:none !important;}</style><style type="text/css"></style><style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
-.en-markup-crop-options {
-    top: 18px !important;
-    left: 50% !important;
-    margin-left: -100px !important;
-    width: 200px !important;
-    border: 2px rgba(255,255,255,.38) solid !important;
-    border-radius: 4px !important;
-}
-
-.en-markup-crop-options div div:first-of-type {
-    margin-left: 0px !important;
-}
-</style><link rel="stylesheet" type="text/css" href="chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/skin/socialwidgets.css"></head><!--
+<link href='//fonts.googleapis.com/css?family=Source+Code+Pro:300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="/static/style.css?3"/>
+<link rel="shortcut icon" href="/favicon.ico?2"/>
+</head><!--
 
 
 
@@ -102,12 +88,15 @@ If you'd like to hang out, I'm @ericwastl on Twitter.
 
 -->
 <body>
-<header><h1><a href="http://adventofcode.com/">Advent of Code</a></h1><div class="user">Neil Smith <span class="star-count">30*</span></div><nav><ul><li><a href="http://adventofcode.com/about">[About]</a></li><li><a href="http://adventofcode.com/stats">[Stats]</a></li><li><a href="http://adventofcode.com/leaderboard">[Leaderboard]</a></li><li><a href="http://adventofcode.com/settings">[Settings]</a></li><li><a href="http://adventofcode.com/auth/logout">[Log out]</a></li></ul></nav></header>
+<header><h1><a href="/">Advent of Code</a></h1><div class="user">Neil Smith <span class="star-count">34*</span></div><nav><ul><li><a href="/about">[About]</a></li><li><a href="/stats">[Stats]</a></li><li><a href="/leaderboard">[Leaderboard]</a></li><li><a href="/settings">[Settings]</a></li><li><a href="/auth/logout">[Log out]</a></li></ul></nav></header>
 
 <div id="ad">
-<script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Advent of Code Wide Skyscraper -->
-<ins class="adsbygoogle" style="width: 160px; height: 600px;" data-ad-client="ca-pub-9420604735624631" data-ad-slot="8014013294"></ins>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-9420604735624631"
+     data-ad-slot="8014013294"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -143,12 +132,13 @@ Cinnamon: capacity 2, durability 3, flavor -2, texture -1, calories 3
 <p>Given the ingredients in your kitchen and their properties, what is the <em>total score</em> of the highest-scoring cookie you can make with a calorie total of <code>500</code>?</p>
 </article>
 <p>Your puzzle answer was <code>15862900</code>.</p><p class="day-success">Both parts of this puzzle are complete! They provide two gold stars: **</p>
-<p>At this point, you should <a href="http://adventofcode.com/">return to your advent calendar</a> and try another puzzle.</p>
-<p>If you still want to see it, you can <a href="http://adventofcode.com/day/15/input" target="_blank">get your puzzle input</a>.</p>
+<p>At this point, you should <a href="/">return to your advent calendar</a> and try another puzzle.</p>
+<p>If you still want to see it, you can <a href="/day/15/input" target="_blank">get your puzzle input</a>.</p>
 <p>You can also <span class="share">[Share<span class="share-content">on
-  <a href="https://twitter.com/intent/tweet?text=I%27ve+completed+%22Science+for+Hungry+People%22+%2D+Day+15+%2D+Advent+of+Code&amp;url=http%3A%2F%2Fadventofcode%2Ecom%2Fday%2F15&amp;related=ericwastl&amp;hashtags=AdventOfCode" target="_blank" rel="noreferrer">Twitter</a>
-  <a href="https://plus.google.com/share?url=http%3A%2F%2Fadventofcode%2Ecom%2Fday%2F15" target="_blank" rel="noreferrer">Google+</a>
-  <a href="http://www.reddit.com/submit?url=http%3A%2F%2Fadventofcode%2Ecom%2Fday%2F15&amp;title=I%27ve+completed+%22Science+for+Hungry+People%22+%2D+Day+15+%2D+Advent+of+Code" target="_blank" rel="noreferrer">Reddit</a></span>]</span>
+  <a href="https://twitter.com/intent/tweet?text=I%27ve+completed+%22Science+for+Hungry+People%22+%2D+Day+15+%2D+Advent+of+Code&amp;url=http%3A%2F%2Fadventofcode%2Ecom%2Fday%2F15&amp;related=ericwastl&amp;hashtags=AdventOfCode" target="_blank">Twitter</a>
+  <a href="https://plus.google.com/share?url=http%3A%2F%2Fadventofcode%2Ecom%2Fday%2F15" target="_blank">Google+</a>
+  <a href="http://www.reddit.com/submit?url=http%3A%2F%2Fadventofcode%2Ecom%2Fday%2F15&amp;title=I%27ve+completed+%22Science+for+Hungry+People%22+%2D+Day+15+%2D+Advent+of+Code" target="_blank">Reddit</a
+></span>]</span>
  this puzzle.</p>
 </main>
 
@@ -162,6 +152,5 @@ ga('create', 'UA-69522494-1', 'auto');
 ga('send', 'pageview');
 </script>
 <!-- /ga -->
-
-
-</body></html>
+</body>
+</html>
