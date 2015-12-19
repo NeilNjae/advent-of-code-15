@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABCAAGBQJWc+s9AAoJEJPB2e07Pgbq/OAQAIyVBhzkraO7tanY5m2n73Kx
-9hks6rBycaaAHkUpR22SSHcCU6hO45cNT+9b2pgupLoKYQCiLrNq6cTjrACUAqX6
-UfVHZIjMwy8F5huYRTiQP2urMc4OaZ9GgZsr++oeCQW3DOty7jz+5It0uuw0BY4R
-ycb9if6XEXfezlqPw16uY7z35i+ZvS9gWfnWEJKTwFJ9i9Q02/mLtuUr97uLMTKv
-FusWDwXQEw0tmgsYb+BUCBPxBBehwdnqOwE/+F2WL6+IxOdKbGG8ZKupnPHMt5aK
-CDHlRBJBDcgeMwct5jlrk+7VrfSyNgPncYBKeYr5vl1jZDqzMES++n4M2CtYq/fM
-1BX6fAHbCUMVhK64jFriIiUCv4qB8CbaVDvro3Khgq5MHRXiTjI38c49n6xdV8c4
-6Dy/WADC0xFi9qJ/DZXRcb/owvmPu0mWpXz/+kfbjivnL9z1YzH2O5B6dAXyL3Mg
-Q/zdM0Z08HG38gcU6OqsaYTysu608gmSFI8SFAJYXHlMFevslHkOX2P78oRDRInK
-qxD25NRor/RfnIjrPSFqF4uLviE/Ybi46xwuqfFYDdlAHgGKoRjcbQrc5lmUkMXW
-r1HdMc7Dmiu2lfS0hS8YVhm2U1HiM7rmrZXl3TnAcNkOcHkIr81s0fXvNUe6rFwB
-XM0pbr/U1BOyM2++oJIX
-=bQXc
+iQIcBAABCAAGBQJWdZ3lAAoJEJPB2e07PgbqcnAP+gKgLPT4BvMRhVQfVYKzEdtq
++aVjWMr4mclxye5eYm4h9JNV8iXivPtLti0/eJ8wftb6VrakEvJrcTl8Q7yDRk3u
+rerKYL7VmNBl2NeWgVfkr9LLULLL4N6nBb6u4eXFwlO/CMjw13vCTbM8TmW06qk2
+ca3mBocIWy3eG10TO9TChJA6d3DV66d6ezvUlHL+oduZwYneHVjUvkdMaj/KK4ug
+/YCOejqo0gfMINChy/HhyRJj7jDhOkaivnrdx3++61GORKSi1p/vf+3wsuM739kr
+4wS+kFtKhVABvGBHqyUSXf6YTG8mPgbLeeZFIxF/dVtcq2TlHJ8gVPoOLPy3JDME
+1TMIKjnyKieD7m0FUC0XJe6yPmRjSublj5MtC7F2nSb+Xdq5CqEHHD20kAnAJm/q
+0ceMy12H4Jpko4RXoX1iKY02qWZFRhH1UdwWTk7ZBrXVqgJ6z2SIcsI439Ximmd2
+5PGP9+yNg5Ijfig0LZgO/9o/5KjdXqb3kfHWAvKP1eEpx1h4+iphppwLYVSluuVi
++I8cAvOEs64PmZ6Vg7Mu7Rzov+RkEdtVgRw2uUYDmS1URQN3I+NqGriDgL5mn2Lo
+EXGLoiXUaiB49HikWm//K7mWfW7tJlJvL/Sz54bBhi4LBcq9CfNt3R3RnafMkToW
+F1TvlM9fPgMHVG76U94S
+=4ntN
 -----END PGP SIGNATURE-----
 
 ```
@@ -86,6 +86,8 @@ size    exec  file                        contents
 59              advent17.txt              9ea23339652ff398a7c97d7a7303ab2deee04c3e23a6c599106d65b6b89e52df
 11716           advent18.ipynb            dab604f208f0ded7134dbebe2b04c56435187e5b37ab318953b675f9c96c0d6a
 10099           advent18.txt              23d697796dfa397e22b925f850cf5a269802e307753a7a9a26e26ed7350a56a2
+9745            advent19.ipynb            858c65e798916dd00403762a01ba6b3a55348f20e8ac927b52e700aa3cd9c073
+968             advent19.txt              eb333fc1d3ec41e3b9b22096e838fe860fbc6667068129996cae3cd3483dd9e7
 ```
 
 #### Ignore
