@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABCAAGBQJWdZ4XAAoJEJPB2e07Pgbqkl0P+wX8S9KzBWIBgCoUOx6kts7b
-813IQGh5o89fEfBmGLBWlFYKZfhqy2CiruInuAlNSQGpiwp7vXgULnuxhAo3CNla
-5fjv38uGY4M4SemJWv6bFxF6hE1MD5OfrTAPGqgHsoURFEC6TaSKQcl98CGKTKZo
-l9syicV5+DFXW24n8PZzCInpPYaDiNrZXCDXzjBx3fQwXJC7RPYeTlqzGSs+af2L
-J3vs0wDUoSPdERMXwQO/xoRKtSDh/dEZHKT8BobLFsLSUMwstWPQMhOur9+E/G2m
-G9uQmZOWDo120PCngFXWu5aTEZbiDdQNlT8Pq1e93ShMQ/CCIiF5p0S2/CzzAwVo
-QmiyjW7pifJMsj/ju81DRdbMUcLOqIWJ8MSPLvPzZR0g7j9fv+oA9chcpL/DvpT0
-6nsuE1jZeFYZDgEdgSUm8UHSZYRkP19b7gMZ0G6a59DjD6QoOfDR+tDfTNlVGt7z
-SOMLUvBCIT9t91xMXSKjDzyJW/VepJd7y/kM8ZRHMb6ZZsyTtLYOpyT1FbOhz7z8
-SjDczb6KBWOZwLOguSlYvA4x296mG3F8hXikflyG7h+JCsUKSTpNBLgVuUxjno/M
-/IOeVssd9iYhSJh/ddtBtMoe7Q+uY8tykstN4sqSZLD3n6Ldv/oqf8QpUSuzFmqs
-mq8/g700Yz81x91bIAcG
-=nL+C
+iQIcBAABCAAGBQJWduQGAAoJEJPB2e07Pgbqz2IQAJ9DTWMKZeYcafZgy0q36wUR
+X0hB4ocr0fqOYu0DSnMiw/dTO8iHhqavngTDrO+wcIXsm2zd3ImY6pABY6r111iA
+ZCSBMZV5XJ5LtpDQRaTSbHqpNzj3DKxYAhxUH5Hc29oOt3tn900oCupdY6g+BUb9
+xHZQoGTJEhSVB8UuljCtTOBMOufusjjpuTa7d/bEHOkSPDryHysZJheWs3DKMU5W
+yxQvVckyVV2Ke5qkpkGysQguyAbZxkyVey+gjEdtZVqnU+A8PNb099eOVMDzm5n8
+R8wc8wT+NuSwOmARrEcZjOYWM9CXDa7H3vYRXQpiiScGYoidB+clwpTq7SjmF5ik
+krfGsmEFT95X5t9X3tVwFVuMdhDUGzNzuC4fgq79NJxqzXYQ5uv++I8EWPeTP5gd
+r2YLMohJzHBT2odh5Xp6Vefcmrer0qwRz2GTj/mcrz4G9IqmOkzpK6tu0nXMMenM
+M0oWAESeAYDJ/5PRJcEOQcQxhhCCfwYbEWklRiAhTZ0AMGoWklmz3Ru6B1bxUOIU
+gm8g1RahzlXFfWSOq/+1x8yO1xAiGf0A9XsibDTatKex7DHQAjLySXeVxIof5J1X
+9HEsd4dRtK6T4sRBYt90dFNb+HwBL0c3KmE+rmay+l+glVYYvaGOrXdRrDmV7J0o
+LzHCVehOsol3p4Dyp3CO
+=zX10
 -----END PGP SIGNATURE-----
 
 ```
@@ -53,6 +53,7 @@ size    exec  file                        contents
 5613            advent-of-code-17.html    dc164050b1accefbbf8f2a8c13428df348bdc22d4293fcf4ef9fc6b74d38a227
 7545            advent-of-code-18.html    d41f47bada37cd3fb1be795a00a5ef7b6d78a8246f436441e37f94d64d18f677
 7580            advent-of-code-19.html    9cd3b0a1a5a1dc658c09b46ba9624312622ac5cf46fffcaccbeea661b11c577e
+6387            advent-of-code-20.html    3ec26a7cfb58a168b62781f097ebdb71ae3224cadde49588463370faaa3d33f9
 109395          advent-of-code.ipynb      7292eeb9a8019f6931037c70105ab96bf691074dbe963736b6429cb4d4373f51
 25607           advent01.ipynb            c33ad39a77803a6870dd74998da98e3bb9c2c2db37c34167b330a01d663717e7
 7001            advent01.txt              79312922877bdedd09ce0886a42b3d7f7ed092e2218579fb7d6ac1cb38cedebe
@@ -89,6 +90,8 @@ size    exec  file                        contents
 10099           advent18.txt              23d697796dfa397e22b925f850cf5a269802e307753a7a9a26e26ed7350a56a2
 9745            advent19.ipynb            858c65e798916dd00403762a01ba6b3a55348f20e8ac927b52e700aa3cd9c073
 968             advent19.txt              eb333fc1d3ec41e3b9b22096e838fe860fbc6667068129996cae3cd3483dd9e7
+11722           advent20-slow.ipynb       780a5bb1e729e8fdf8b4c75f6fbad5aa53975dcc9a6d12ee699a2d488c7b7dc3
+3377            advent20.ipynb            be9db2beee6805ac9db9f2dc145abba3275964e36e21580122bacd8436777a30
 ```
 
 #### Ignore
